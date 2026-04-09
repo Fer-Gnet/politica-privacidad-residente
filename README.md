@@ -1,4 +1,4 @@
-# Política de Privacidad — App de Residente
+# Política de Privacidad — Gnet Acceso Residencial
 
 **Desarrollador:** GNetwork  
 **Última actualización:** marzo 2026  
