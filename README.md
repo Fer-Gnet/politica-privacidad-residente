@@ -2,7 +2,7 @@
 
 **Desarrollador:** GNetwork  
 **Última actualización:** marzo 2026  
-**Aplicable a:** App de Residente (Android e iOS)
+**Aplicable a:** Gnet Acceso Residencial (Android e iOS)
 
 ---
 
