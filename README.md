@@ -1,7 +1,7 @@
 # Política de Privacidad — Gnet Acceso Residencial
 
 **Desarrollador:** Gnetwork  
-**Última actualización:** marzo 2026  
+**Última actualización:** abril 2026  
 **Aplicable a:** Gnet Acceso Residencial (Android e iOS)
 
 ---
