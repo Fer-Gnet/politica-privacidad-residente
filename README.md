@@ -1,6 +1,6 @@
 # Política de Privacidad — Gnet Acceso Residencial
 
-**Desarrollador:** GNetwork  
+**Desarrollador:** Gnetwork  
 **Última actualización:** marzo 2026  
 **Aplicable a:** Gnet Acceso Residencial (Android e iOS)
 
@@ -32,7 +32,7 @@ No usamos tu información para publicidad, ni la compartimos con terceros con fi
 
 ## 3. Almacenamiento de datos
 
-Toda tu información se almacena en servidores privados administrados por GNetwork, dentro de la infraestructura del sistema de seguridad de tu residencial. No utilizamos servicios de almacenamiento en la nube de terceros.
+Toda tu información se almacena en servidores privados administrados por Gnetwork, dentro de la infraestructura del sistema de seguridad de tu residencial. No utilizamos servicios de almacenamiento en la nube de terceros.
 
 ---
 
@@ -42,7 +42,7 @@ Tu información no es vendida, alquilada ni compartida con terceros. El único a
 
 - El guardia de tu residencial, únicamente para verificar solicitudes de acceso.
 - El administrador de tu residencial, para la gestión de cuentas y accesos.
-- GNetwork, para el soporte técnico del sistema.
+- Gnetwork, para el soporte técnico del sistema.
 
 ---
 
@@ -56,11 +56,11 @@ Implementamos medidas de seguridad técnicas para proteger tu información, incl
 
 Podés solicitar en cualquier momento:
 
-- Acceso a los datos que tenemos sobre vos.
+- Acceso a los datos que tenemos sobre ti.
 - Corrección de datos incorrectos.
 - Eliminación de tu cuenta y datos asociados.
 
-Para ejercer estos derechos, contactá al administrador de tu residencial o directamente a GNetwork.
+Para ejercer estos derechos, contacta al administrador de tu residencial o directamente a Gnetwork.
 
 ---
 
@@ -72,10 +72,10 @@ Esta aplicación no está dirigida a menores de 18 años y no recopilamos intenc
 
 ## 8. Cambios a esta política
 
-GNetwork se reserva el derecho de actualizar esta política cuando sea necesario. Cualquier cambio significativo será notificado a través de la aplicación.
+Gnetwork se reserva el derecho de actualizar esta política cuando sea necesario. Cualquier cambio significativo será notificado a través de la aplicación.
 
 ---
 
 ## 9. Contacto
 
-Si tenés preguntas sobre esta política de privacidad, puedes contactarnos a través del administrador de tu residencial o por los canales oficiales de GNetwork en Honduras.
+Si tienes preguntas sobre esta política de privacidad, puedes contactarnos a través del administrador de tu residencial o por los canales oficiales de Gnetwork en Honduras.
